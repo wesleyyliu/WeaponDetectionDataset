@@ -1,13 +1,3 @@
-<annotation verified="yes">
-                                    <folder>Annotation</folder>
-                                    <filename>Cam5-From09-32-26To09-33-10-Guns_x264_frame_2</filename>
-                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Rodri\Cam5-From09-32-26To09-33-10-Guns_x264\JPEGImages\Cam5-From09-32-26To09-33-10-Guns_x264_frame_2.jpg</path>
-                                    <source>
-                                        <database>Unknown</database>
-                                    </source>
-                                    <size>
-                                        <width>1920</width>
-                                        <height>1080</height>
-                                        <depth>3</depth>
-                                    </size>
-                                    <segmented>0</segmented></annotation>
+version https://git-lfs.github.com/spec/v1
+oid sha256:187dd262a6b5a66843e23324de563d831e7c2152d97de64384511ef332a23e57
+size 905

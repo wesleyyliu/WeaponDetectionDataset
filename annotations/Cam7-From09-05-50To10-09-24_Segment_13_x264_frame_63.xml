@@ -1,13 +1,3 @@
-<annotation verified="yes">
-                                    <folder>Annotation</folder>
-                                    <filename>Cam7-From09-05-50To10-09-24_Segment_13_x264_frame_63</filename>
-                                    <path>C:\Users\Rodrigo\Desktop\Reetiquetado con VoTT v1\Videos Antonio\Cam7-From09-05-50To10-09-24_Segment_13_x264\JPEGImages\Cam7-From09-05-50To10-09-24_Segment_13_x264_frame_63.jpg</path>
-                                    <source>
-                                        <database>Unknown</database>
-                                    </source>
-                                    <size>
-                                        <width>1920</width>
-                                        <height>1080</height>
-                                        <depth>3</depth>
-                                    </size>
-                                    <segmented>0</segmented></annotation>
+version https://git-lfs.github.com/spec/v1
+oid sha256:6301c93369b289eb0df30025703bd2938536644f889ec12b872c718d84ab2fe4
+size 927

@@ -1,13 +1,3 @@
-<annotation verified="yes">
-                                    <folder>Annotation</folder>
-                                    <filename>Cam1-From09-23-00To10-03-25_Segment_5_x264_frame_82</filename>
-                                    <path>C:\Users\marina\Documents\DeepLearning\Images\Etiquetados editados\Cam1-From09-23-00To10-03-25_Segment_5_x264_output\JPEGImages\Cam1-From09-23-00To10-03-25_Segment_5_x264_frame_82.jpg</path>
-                                    <source>
-                                        <database>Unknown</database>
-                                    </source>
-                                    <size>
-                                        <width>1920</width>
-                                        <height>1080</height>
-                                        <depth>3</depth>
-                                    </size>
-                                    <segmented>0</segmented></annotation>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a630ca8c40bb794769c5449f90c264eb482a8c4d7d1065ba73858c17c9a206cc
+size 933
